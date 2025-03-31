@@ -1,5 +1,5 @@
-@import url('https://fonts.cdnfonts.com/css/montserrat');
-@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url('httpss://fonts.cdnfonts.com/css/montserrat');
+@import url('httpss://fonts.cdnfonts.com/css/sf-pro-display');
 
 
 
@@ -43,23 +43,23 @@ body {
 }
 
 .initial-container.init {
-  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('http://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-6.jpg  ');
+  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('https://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-6.jpg  ');
 }
 
 .initial-container.more-to-do {
-  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('http://www.steffenegly.de/wp-content/uploads/2017/06/DSC7535.jpg');
+  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('https://www.steffenegly.de/wp-content/uploads/2017/06/DSC7535.jpg');
 }
 
 .initial-container.challenge {
-  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('http://www.steffenegly.de/wp-content/uploads/2017/05/DSC4624.jpg  ');
+  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('https://www.steffenegly.de/wp-content/uploads/2017/05/DSC4624.jpg  ');
 }
 
 .initial-container.carbon-footprint {
-  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('http://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-23.jpg  ');
+  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('https://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-23.jpg  ');
 }
 
 .initial-container.most-work {
-  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('http://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-68.jpg  ');
+  background:linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0.5)), url('https://www.steffenegly.de/wp-content/uploads/2021/12/Steffen-Egly_Schwarzwald-68.jpg  ');
 }
 .text-container {
     display: flex;
