@@ -257,6 +257,13 @@ body {
   font-size: 1.1rem;
 }
 
+@media screen and (max-width: 768px) {
+  .img-container {
+    width: 100%;
+  }
+  
+}
+
 .img-container img {
   width: 350px;
   height: 233px;
@@ -273,6 +280,13 @@ body {
   padding: 1.5rem 2rem;
   width: 50%;
   margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .navigation {
+    width: 80%;
+  }
+  
 }
 
 .navigation a {
@@ -313,6 +327,13 @@ body {
   background-color: #acdbae57;
   border: 2px solid #2e7d32;
   border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .callout {
+    width: 90%;
+  }
+  
 }
 
 .title {
@@ -364,4 +385,12 @@ footer h4 {
 footer p, footer a {
   margin: 0.5rem;
   font-size: 0.8rem;
+}
+
+@media screen and (max-width: 768px) {
+  .initial-container {
+    height: fit-content;
+    padding: 1rem 0rem;
+  }
+
 }
